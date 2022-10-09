@@ -41,3 +41,7 @@
 
 
 ![](https://github.com/AnandBallure/News-Headline-Sarcasm-Detection/blob/main/sarcasm-cmx.png)
+
+- Classification report: 
+
+![](https://github.com/AnandBallure/News-Headline-Sarcasm-Detection/blob/main/clr.jpg)
