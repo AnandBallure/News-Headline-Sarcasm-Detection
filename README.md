@@ -38,6 +38,7 @@
 
 ## Results
 - Model performed quite well in detecting sarcasm considering *"sarcasm is quite easy to detect."*
+- Achieved an accuracy of 87.11% and AUC of 0.94.
 
 
 ![](https://github.com/AnandBallure/News-Headline-Sarcasm-Detection/blob/main/sarcasm-cmx.png)
