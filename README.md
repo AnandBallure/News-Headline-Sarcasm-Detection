@@ -7,7 +7,7 @@
 ## Cleaning and Transforming
 - First lower-casing all the words in the dataset.
 - Removing punctuations from all of the corpus.
-- Tokenizing words using the *word tokenizer* from *NLTK library*.
+- Tokenizing words using the *word tokenizer* from *NLTK*.
 - Segregating the English stopwords using the *NLTK.Corpus library*.
 - Using the *WordCloud* library to generate a wordcloud of the most frequent words labelled as *Sarcasm* in the entire dataset.
 
